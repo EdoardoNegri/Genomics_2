@@ -11,5 +11,5 @@ dependencies = [
     "numpy>=2.3.5",
     "pandas>=2.3.3",
     "scanpy>=1.11.5",
-    "scikit-misc>=0.5.2",
+    "scvi-tools>=1.4.0.post1",
 ]
